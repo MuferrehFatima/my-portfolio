@@ -249,7 +249,7 @@ export default function Portfolio() {
             <Code size={20} />
           </a>
           <a
-            href="mufrrehfatima@example.com"
+            href="mufrrehfatima@gmail.com"
             className="text-gray-400 hover:text-emerald-400 transition-all duration-300 hover:scale-125 transform"
             title="Email"
           >
@@ -411,13 +411,13 @@ export default function Portfolio() {
                 <a href="https://leetcode.com/u/Muferreh-Fatima/" className="p-4 bg-gray-700/50 rounded-full hover:bg-emerald-500/20 transition-all transform hover:scale-110" title="LeetCode">
                   <Code size={24} />
                 </a>
-                <a href="mufrrehfatima@example.com" className="p-4 bg-gray-700/50 rounded-full hover:bg-emerald-500/20 transition-all transform hover:scale-110" title="Email">
+                <a href="mufrrehfatima@gmail.com" className="p-4 bg-gray-700/50 rounded-full hover:bg-emerald-500/20 transition-all transform hover:scale-110" title="Email">
                   <Mail size={24} />
                 </a>
               </div>
               <div className="text-center">
                 <a
-                  href="mailto:alex@example.com"
+                  href="mufrrehfatima@gmail.com"
                   className="inline-block px-8 py-3 bg-gradient-to-r from-emerald-500 to-green-500 rounded-full font-semibold hover:shadow-lg hover:shadow-emerald-500/50 transition-all transform hover:scale-105"
                 >
                   Send Me an Email
