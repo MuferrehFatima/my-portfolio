@@ -310,7 +310,7 @@ export default function Portfolio() {
                 onClick={() => scrollToSection('contact')}
                 className="px-8 py-3 border-2 border-emerald-400 rounded-full font-semibold hover:bg-emerald-400/10 transition-all"
               >
-                Get In Contact
+                Contact Me
               </button>
             </div>
           </div>
