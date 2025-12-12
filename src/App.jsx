@@ -310,7 +310,7 @@ export default function Portfolio() {
                 onClick={() => scrollToSection('contact')}
                 className="px-8 py-3 border-2 border-emerald-400 rounded-full font-semibold hover:bg-emerald-400/10 transition-all"
               >
-                Get In Touch
+                Get In Contact
               </button>
             </div>
           </div>
@@ -396,7 +396,7 @@ export default function Portfolio() {
         {/* Contact Section */}
         <section id="contact" className="min-h-screen flex items-center justify-center px-4 py-20">
           <div className={`max-w-2xl w-full transition-all duration-1000 ${isVisible.contact ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            <h2 className="text-4xl font-bold mb-8 text-center">Get In Touch</h2>
+            <h2 className="text-4xl font-bold mb-8 text-center">Get In Contact</h2>
             <div className="bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-emerald-500/20">
               <p className="text-lg text-gray-300 mb-8 text-center">
                 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
