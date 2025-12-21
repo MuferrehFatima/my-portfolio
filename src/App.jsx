@@ -429,7 +429,7 @@ export default function Portfolio() {
 
         <footer className="bg-gray-900/50 border-t border-emerald-500/20 py-8">
           <div className="max-w-6xl mx-auto px-4 text-center text-gray-400">
-            <p>&copy; 2026 Muferreh Fatima.</p>
+            <p>&copy; 2026 Muferreh Fatima. All Rights Reserved.</p>
           </div>
         </footer>
       </div>
