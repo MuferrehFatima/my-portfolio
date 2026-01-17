@@ -420,7 +420,7 @@ export default function Portfolio() {
                   href="mailto:mufrrehfatima@gmail.com"
                   className="inline-block px-8 py-3 bg-gradient-to-r from-emerald-500 to-green-500 rounded-full font-semibold hover:shadow-lg hover:shadow-emerald-500/50 transition-all transform hover:scale-105"
                 >
-                  Send Me an Email
+                  Email Me
                 </a>
               </div>
             </div>
